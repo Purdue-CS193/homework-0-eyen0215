@@ -1,8 +1,12 @@
-#Eric's First CS193 Homework
+# Eric's First CS193 Homework
 
-$$
-\mathbf{A} = \sum_{k=0}^n\binom{n}{k}\mathrm{x}^n\mathrm{x}^{n-k}
-$$
+Things I like about CS193:
+- It has CS in the name
+- No midterm/final
+- CS
+- latex hopefully some math
+- daniels hair
+
 
 ## Welcome to GitHub Pages
 
